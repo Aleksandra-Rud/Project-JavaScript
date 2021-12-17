@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://AlexGvozdik.github.io/team-team-team-2",
+  "homepage": "http://aleksandra-rud.github.io/Project-JavaScript/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team-team-team-2/"
+    "build": "parcel build src/*.html --public-url /Project-JavaScript/"
   },
   "repository": {
     "type": "git",
